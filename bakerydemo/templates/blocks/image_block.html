@@ -1,0 +1,6 @@
+{% load wagtailimages_tags %}
+
+<figure>
+    {% image self.image height-400 %}
+    <figcaption>{{ self.caption }} - {{ self.attribution }}</figcaption>
+</figure>
