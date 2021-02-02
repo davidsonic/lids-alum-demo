@@ -1,7 +1,7 @@
 LIDS-ALUM demo project
 =======================
 
-This is the prototype of LIDS-ALUM website.
+This is the prototype of [MIT-LIDS-ALUM website](http://www.lids-alum.org/)
 
 **Document contents**
 
